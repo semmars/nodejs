@@ -88,5 +88,5 @@ app.post('/uploadmultiplefiles', (req, res) => {
 
 //Listen on port
 app.listen(port, () => {
-    console.log(`Server is up and runing on ${port} version:1.5`)
+    console.log(`Server is up and runing on ${port} version:1.6`)
 })
