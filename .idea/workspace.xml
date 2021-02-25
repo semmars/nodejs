@@ -1,14 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ab60a642-fbbc-4f66-ae1c-e554b060a95c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/bin_www.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uploadjs.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="ab60a642-fbbc-4f66-ae1c-e554b060a95c" name="Default Changelist" comment="welldone">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/server.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,12 +57,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1614269235828</updated>
-      <workItem from="1614269236904" duration="3174000" />
+      <workItem from="1614269236904" duration="3646000" />
     </task>
+    <task id="LOCAL-00001" summary="welldone">
+      <created>1614272561385</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1614272561385</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="welldone" />
+    <option name="LAST_COMMIT_MESSAGE" value="welldone" />
   </component>
   <component name="WindowStateProjectService">
     <state x="691" y="425" key="#Notifications" timestamp="1614271233591">
@@ -97,9 +105,9 @@
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="631" y="211" key="SettingsEditor/0.0.2048.1112@0.0.2048.1112" timestamp="1614271097873" />
-    <state x="1080" y="498" key="Vcs.Push.Dialog.v2" timestamp="1614272375289">
+    <state x="1080" y="498" key="Vcs.Push.Dialog.v2" timestamp="1614272846313">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state x="1080" y="498" key="Vcs.Push.Dialog.v2/0.0.2048.1112@0.0.2048.1112" timestamp="1614272375289" />
+    <state x="1080" y="498" key="Vcs.Push.Dialog.v2/0.0.2048.1112@0.0.2048.1112" timestamp="1614272846313" />
   </component>
 </project>
