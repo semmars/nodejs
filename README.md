@@ -13,3 +13,11 @@ So two useful techniques :
 2 upload system with nodejs, Multer and Express which can be setup in minutes
 
 the original codes are from different websites on the internet, and we modified the codes and made some provement. 
+
+start the server with command:
+			
+
+   node server.js 
+
+
+The server should be loaded at https://locahost:668/ and then try https://locahost:668/upload with progress bar.
