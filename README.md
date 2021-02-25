@@ -17,7 +17,7 @@ the original codes are from different websites on the internet, and we modified 
 start the server with command:
 			
 
-   node server.js 
+	node server.js 
 
 
 The server should be loaded at https://locahost:668/ and then try https://locahost:668/upload with progress bar.
