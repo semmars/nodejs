@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ab60a642-fbbc-4f66-ae1c-e554b060a95c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/bin_www.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uploadjs.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1oyqZlWRnTzuwG7Nlwg5HZZOJ7n" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="14.15.5" />
+    <property name="javascript.nodejs.core.library.typings.version" value="14.14.31" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\fireparty\projects\uploadjs" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Node.js.server.js">
+    <configuration name="server.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/server.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.server.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ab60a642-fbbc-4f66-ae1c-e554b060a95c" name="Default Changelist" comment="" />
+      <created>1614269235828</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614269235828</updated>
+      <workItem from="1614269236904" duration="3174000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="691" y="425" key="#Notifications" timestamp="1614271233591">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="691" y="425" key="#Notifications/0.0.2048.1112@0.0.2048.1112" timestamp="1614271233591" />
+    <state x="762" y="521" key="Github.CreateGistDialog" timestamp="1614271265437">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="762" y="521" key="Github.CreateGistDialog/0.0.2048.1112@0.0.2048.1112" timestamp="1614271265437" />
+    <state width="1466" height="265" key="GridCell.Tab.0.bottom" timestamp="1614271429363">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1466" height="265" key="GridCell.Tab.0.bottom/0.0.2048.1112@0.0.2048.1112" timestamp="1614271429363" />
+    <state width="1466" height="265" key="GridCell.Tab.0.center" timestamp="1614271429363">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1466" height="265" key="GridCell.Tab.0.center/0.0.2048.1112@0.0.2048.1112" timestamp="1614271429363" />
+    <state width="1466" height="265" key="GridCell.Tab.0.left" timestamp="1614271429363">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1466" height="265" key="GridCell.Tab.0.left/0.0.2048.1112@0.0.2048.1112" timestamp="1614271429363" />
+    <state width="1466" height="265" key="GridCell.Tab.0.right" timestamp="1614271429363">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1466" height="265" key="GridCell.Tab.0.right/0.0.2048.1112@0.0.2048.1112" timestamp="1614271429363" />
+    <state x="631" y="211" key="SettingsEditor" timestamp="1614271097873">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="631" y="211" key="SettingsEditor/0.0.2048.1112@0.0.2048.1112" timestamp="1614271097873" />
+    <state x="1080" y="498" key="Vcs.Push.Dialog.v2" timestamp="1614272375289">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="1080" y="498" key="Vcs.Push.Dialog.v2/0.0.2048.1112@0.0.2048.1112" timestamp="1614272375289" />
+  </component>
+</project>
